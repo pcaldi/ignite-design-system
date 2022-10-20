@@ -66,7 +66,7 @@ export function SignIn(){
         <label htmlFor="remember" className='flex items-center gap-2'>
           <Checkbox id='remember'/>
          <Text size='sm' className='text-gray-200'>
-          Lembrar de min por 30 dias
+          Lembrar de mim por 30 dias
           </Text> 
         </label>
           <Button type= "submit" className='mt-4'>Entrar na plataforma</Button>
