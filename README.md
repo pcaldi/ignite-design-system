@@ -58,9 +58,10 @@ yarn dev
 ```
 ## 📲 Contato
 
-Entre em contato comigo por e-mail ou pelo meu LinkedIn:
+Entre em contato comigo por e-mail ou pelo meu Linkedin:
 
-<a href="pcaldi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:pcaldi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
 <a href="https://www.linkedin.com/in/pcaldi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
