@@ -17,30 +17,32 @@ O Ignite Lab Design System é um projeto da Rocketseat onde construímos uma apl
 * [Axios](https://github.com/axios/axios)
 * [Vite](https://github.com/twbs/bootstrap)
 * [phosphor-react](https://github.com/phosphor-icons/phosphor-react)
-* [livro de histórias](https://storybook.js.org/)
+* [storybook](https://storybook.js.org/)
 * [tailwindcss](https://tailwindcss.com/)
 
 
 ## :rocket: Rodando o projeto
+
 ```bash
-# Clone o Repositorio
+# Clone o Repositório
 https://github.com/pcaldi/ignite-design-system.git
 ```
 
 ```bash
 # Instale as Dependências
-fio
+yarn
 ```
 
 ```bash
-# Para abrir o Storybook
-livro de histórias de fios
+# Para Abrir o Storybook
+yarn storybook
 ```
 
 ```bash
 # Para Executar o Projeto
-desenvolvedor de fios
+yarn dev
 ```
+
 # :closed_book: Licença
 
 Esse projeto possui [licença MIT](./LICENSE).
