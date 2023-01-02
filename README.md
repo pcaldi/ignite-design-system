@@ -11,6 +11,10 @@
 
 <h1 align="center">:file_cabinet:Ignite Design System</h1>
 
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/114869399/210282357-39be010a-ce05-4bba-bb5d-58c0e66ba642.png"/>
+</div>
+
 ## :memo: Projeto
 O Ignite Lab Design System é um projeto da Rocketseat onde construímos uma aplicação de Design System utilizando: React, TypeScript, Vite, Tailwind e Storybook.
 
